@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ba1f93c2eed0c1db19581741",
+  "owner": "phynwd",
+  "repo": "page-679cf102a4c167bff747ee71",
+  "title": "长长久久溜溜(779966)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "679cf102a4c167bff747ee71",
+      "a": "长长久久溜溜(779966)",
+      "b": "机场官网线路发布页",
+      "entity": "长长久久溜溜(779966)",
+      "brand": "长长久久溜溜(779966)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "afea56fbc3449f420110000f17be1c3a2499aa28a11711e818cd0f6711a2430c",
+      "content": {
+        "primary_entity": "长长久久溜溜(779966)",
+        "keyword1": "长长久久溜溜(779966)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，长长久久溜溜提供基础版、旗舰版与团队版三档方案，流量从每月100GB到1000GB不等，设备数覆盖3台至20台，按年付可节省两个月费用。基础版适合轻量浏览，旗舰版增加IPLC专线与流媒体解锁，团队版支持企业自定义路由与专属客户经理。订阅周期灵活，客户端配置请参考对应平台文档。",
+          "AI_HERO_SUBTITLE": "灵活套餐适配多设备",
+          "AI_HERO_INTRO": "长长久久溜溜为不同使用强度的用户提供三档订阅方案，从单人轻量使用到团队多设备并发均有对应选择。套餐按流量、设备数量和线路类型区分，按年付费享有更优单价，客户端订阅配置流程清晰。",
+          "AI_VISUAL_TITLE": "三档套餐简单选",
+          "AI_HIGHLIGHT_1": "每月100GB起步流量",
+          "AI_HIGHLIGHT_2": "支持最多20台设备",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC专线",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURES_INTRO": "根据日常流量和同时在线设备数量选择套餐，避免超量降速或设备冲突。",
+          "AI_FEATURE_TITLE_1": "流量档位分明",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按实际月用量对应选择。",
+          "AI_FEATURE_TITLE_2": "设备数按需匹配",
+          "AI_FEATURE_TEXT_2": "3台、5台、20台三档并发上限，手机电脑平板可组合使用。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "月付基础上年付仅需10个月价格，长期使用可优先考虑。",
+          "AI_CLIENTS_TITLE": "按设备安装客户端",
+          "AI_CLIENTS_INTRO": "各平台客户端由对应订阅文档提供，选择与系统匹配的版本导入订阅即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版15元/月，旗舰版35元/月，团队版85元/月；年付分别150元、350元、850元。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "按需求选定套餐后，确认设备适配要求，再导入订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据月流量和在线设备数，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统版本与客户端兼容性，团队版可提交自定义路由需求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按文档完成节点选择和连接测试。",
+          "AI_FAQ_TITLE": "常见事项",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "可在续费周期切换档位，升级补差价，降级通常在下个计费周期生效，具体以订阅管理页显示为准。",
+          "AI_FAQ_QUESTION_2": "同时在线设备怎么计算？",
+          "AI_FAQ_ANSWER_2": "同一时间保持连接的设备总数计入上限，基础版3台，旗舰版5台，团队版20台。离线设备不占用额度。",
+          "AI_FAQ_QUESTION_3": "流量用完了会怎样？",
+          "AI_FAQ_ANSWER_3": "当月流量达到套餐上限后连接可能受限，可等待下月重置或升级套餐获得更多流量。",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "年付仅需10个月费用，例如基础版年付150元，月付合计180元。功能上无差异。",
+          "AI_FAQ_QUESTION_5": "团队版支持哪些额外配置？",
+          "AI_FAQ_ANSWER_5": "团队版提供VIP高带宽节点、企业定制路由以及专属客户经理，适合多设备小团队集中管理。",
+          "AI_CLOSING_TITLE": "选好套餐开始加速",
+          "AI_CLOSING_TEXT": "确认流量与设备需求后，挑一档套餐并导入订阅，即可在常用设备上连接使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qiaotoujob.cn",
+    "host": "qiaotoujob.cn"
+  },
+  "file_hashes": {
+    "index.html": "7d593552b69420583cc88b81e71c260df3b1a91546eeb7799d2164d420f4a558",
+    "sitemap.xml": "93b8df7d1a5829e8477b0b3b359d51a40f206b9976d450ab485a682e556f9d0c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4f9353d22e731aa9f9f6f4af50bb6dbe9b70b0d8b32d5967ec829eeaeb8b15f8",
+    "robots.txt": "cdde2fdffc47f6a78225f0c249c9626d00b31f366794c2ac986dbde20bc96267",
+    "44b86c3243ba260ad04932e849ac4847.txt": "5f31e80b64b32eca720af912e9413b6fe4c15aa6c9c53c277d8dcb8b20ccb04d"
+  },
+  "revision": "4ad8e83fe3044e3413e6395dc253c1283ae74f2e623ab1310e69e2b7817dd349"
+}
